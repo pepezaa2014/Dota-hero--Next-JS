@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "richie5um2.vscode-sort-json",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
